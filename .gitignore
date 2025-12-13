@@ -1,3 +1,2 @@
-*.csv
 ./archive
 __pycache__
