@@ -22,7 +22,7 @@ The bootstrap results show a clear difference in mean COMPAS decile scores acros
 </p>
 
 ### IQR of COMPAS scores across race groups
-The bootstrap estimates indicate that Black defendants have a larger interquartile range of COMPAS decile scores than White defendants ($4.49 \pm 0.50$), suggesting greater dispersion in assigned risk scores. The confidence intervals for Black and White defendants show limited overlap, while intervals for smaller groups are wide due to sample size. Greater score dispersion implies more mass in the upper tail of the score distribution, increasing the likelihood of exceeding a fixed high-risk threshold.
+The bootstrap estimates indicate that Black defendants have a larger interquartile range of COMPAS decile scores than White defendants, suggesting greater dispersion in assigned risk scores. The confidence intervals for Black and White defendants show limited overlap, while intervals for smaller groups are wide due to sample size. Greater score dispersion implies more mass in the upper tail of the score distribution, increasing the likelihood of exceeding a fixed high-risk threshold.
 
 <p align="center">
 <img src="./results/forest_iqr_score.png" width="700">
